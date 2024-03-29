@@ -10,6 +10,6 @@ int main() {
     printf("========== 2023041018 ±Ë¡ÿ»ƒ ==========\n");
     printf("size of student = %ld\n", sizeof(struct student));
     printf("size of int = %ld\n", sizeof(int)); 
-    printf("size of short = %ld\n", sizeof(short)); 
+    printf("size of short = %ld\n", sizeof(short));
     return 0;
 }

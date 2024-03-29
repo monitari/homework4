@@ -8,7 +8,7 @@ struct student1 {
 typedef struct {
     char lastName;
     int studentId;
-    char grade;
+    char grade; 
 } student2;
 
 int main() {
